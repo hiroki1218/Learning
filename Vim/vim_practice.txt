@@ -1,0 +1,6 @@
+Line 1: Hello
+Line 2: Word
+Line 4: Vim
+Line 5: EOF
+
+Hello from Hirok!!
